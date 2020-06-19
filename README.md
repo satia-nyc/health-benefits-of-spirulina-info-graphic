@@ -5,7 +5,7 @@ These infographics are free to use on your website or blog with attribution unde
 
 If you use any of these infographics, please include a link to the original source:
 
-[health benefits of Spirulina](https://blog.satia.nyc/spirulina/)
+[health benefits of Spirulina](https://blog.satia.nyc/spirulina-health-benefits/)
 
 ![free to use - Health Benefits of Spirulina Infographic](https://github.com/satia-nyc/health-benefits-of-spirulina-info-graphic/blob/master/health-benefits-of-spirulina-2.jpg)
 
