@@ -12,8 +12,12 @@ If you use any of these infographics, please include a link to the original sour
 ![free to use - Health Benefits of Spirulina Infographic - 2](https://github.com/satia-nyc/health-benefits-of-spirulina-info-graphic/blob/master/Health-Benefits-Of-Spirulina-1.jpg)
 
 
+[spirulina infographic](https://github.com/satia-nyc/health-benefits-of-spirulina-info-graphic)
+
 [spirulina infographic](https://satia-nyc.github.io/health-benefits-of-spirulina-info-graphic/)
 
 [chlorella infographic](https://github.com/satia-nyc/free-to-use-Chlorella-infographic)
+
+[chlorella infographic](https://satia-nyc.github.io/free-to-use-Chlorella-infographic/)
 
 [satia](https://blog.satia.nyc/)
