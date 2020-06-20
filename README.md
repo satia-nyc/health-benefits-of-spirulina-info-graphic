@@ -14,4 +14,6 @@ If you use any of these infographics, please include a link to the original sour
 
 [spirulina infographic](https://satia-nyc.github.io/health-benefits-of-spirulina-info-graphic/)
 
+[chlorella infographic](https://github.com/satia-nyc/free-to-use-Chlorella-infographic)
+
 [satia](https://blog.satia.nyc/)
